@@ -12,3 +12,4 @@ Additionally
 - `units.py` some (cgs) units for computations
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ddeb32/SLY_NR/master)
